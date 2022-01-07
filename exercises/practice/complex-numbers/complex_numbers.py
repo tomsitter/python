@@ -1,5 +1,5 @@
 class ComplexNumber:
-    def __init__(self, real, imaginary):
+    def __init__(self, real, imag):
         pass
 
     def __eq__(self, other):
